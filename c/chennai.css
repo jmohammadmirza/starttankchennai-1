@@ -24,7 +24,6 @@
 		float: left;
 		background: white;
 	}
-	#about6_contain img {width:150px;}
 	
 	.community .startup_writeup,
 	.community .mentor_writeup {
@@ -36,6 +35,15 @@
 	}
 }
 
+.faq li {
+	list-style-type:disc; 
+	padding: 0 0 0 1em;
+	margin: 0 0 0 1em;
+}
+
+.logo_square {
+background-image: url("http://where-spotlight.s3.amazonaws.com/start-tank-chennai/starttank-chennai.svg");
+}
 .apply_page ul, ol {
 font-size: 1em;
 }
@@ -44,3 +52,5 @@ font-size: 1em;
 list-style-type: none;
 margin: 0;
 }
+
+#about6_contain img {max-width:150px; width:50%;}

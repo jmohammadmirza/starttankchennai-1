@@ -1,4 +1,3 @@
-<?php include('includes/password_protect.php'); ?>
 <?php include('includes/head.php'); ?>
 
 <div class="about">

@@ -1,6 +1,5 @@
 <?php include('../includes/head.php'); ?>
 
-
 <div class="faq">
 	<h1>About Start Tank</h1>
 <p>
@@ -10,17 +9,26 @@ PayPal India, in partnership with The Indus Entrepreneurs (TiE) Chennai Chapter,
 
 	
 <h2>Eligibility</h2>
-<p>
-Formally incorporated pre-angel/pre-venture funded seed and early-stage technology startups
-Applicants selected through a joint selection process between PayPal and TiE Chennai
-Startups with a significant tech centric component that can benefit from PayPal’s technical mentors and TiE’s business mentorship
-Companies willing to commit full time to incubation
+<ul>
+	<li>Formally incorporated pre-angel/pre-venture funded seed and early-stage technology startups</li>
+	<li>Applicants selected through a joint selection process between PayPal and TiE Chennai</li>
+	<li>Startups with a significant tech centric component that can benefit from PayPal’s technical mentors and TiE’s business mentorship</li>
+	<li>Companies whose founders are willing to commit full time to incubation</li>
+</ul>
 </p>
 
 <h2>Assistance to Startups</h2>
-<p>
-Office area of 11,400 sq.ft. which includes a world-class boardroom, discussion room, and a state-of-the-art conference room to support a total of 5-8 companies (up to a maximum of 15 people each).
-</p>
+<ul>
+<li>Technology mentorship – leveraging eBay Inc.’s global technology and product competency
+
+</li><li>Business mentorship – leveraging TiE and its seasoned entrepreneur pool
+
+</li><li>Office area of over 11,000 sq.ft., which includes a world-class boardroom, discussion room, and a state-of-the-art conference room to support multiple start-up companies
+
+</li><li>Access to soft mentorship in HR, technology trainings, talent acquisition best practices, team identification, leadership development, university relations
+
+</li><li>Workplace logistics such as cafeteria, transport, mail room, doctor’s room, mothers’ room, ATM, library, and fitness center</li>
+</ul>
 
 	
 	

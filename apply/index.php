@@ -89,7 +89,7 @@ SOCIAL
 	FB.ui(
 	{
 	method: 'feed',
-name: 'This is the content of the "name" field.',
+name: 'Join Start Tank Chennai – PayPal’s Incubation Center.',
 link: ' http://chennai.starttank.com/',
 picture: 'http://media.indiatimes.in/media/content/2014/Jul/paypal_starttank_chennai2_1405062506_540x540.jpg',
 caption: 'Join the Start tank Challenge.',
@@ -115,12 +115,7 @@ message: 'Join the Challenge Apply',
 <!--
 Note there is also a recaptcha script within the application form
 -->
- <script type="text/javascript">
- var RecaptchaOptions = {
-    theme : 'clean'
-	
- };
- </script>
+
 <style type="text/css">
 #social li {
 display: inline;
@@ -147,33 +142,6 @@ display:none;
 
 </style>
 
-<!--  verifying is user submitted correct value-->
-<script>
-function submit(){
-            if(recaptcha_challenge_field==recaptcha_response_field){
-                return true;
-           }
-           else{
-               alert("Try again")
-               return false;
-           }
-    }
-
-</script>
-
-
-<script type="text/javascript"
-   src="https://www.google.com/recaptcha/api/challenge?k=01ciN4tyIfmTRWOMZx71j-gw==">
-</script>
-
-<noscript>
-   <iframe src="https://www.google.com/recaptcha/api/noscript?k=01ciN4tyIfmTRWOMZx71j-gw=="
-       height="300" width="500" frameborder="0"></iframe><br>
-   <textarea name="recaptcha_challenge_field" rows="3" cols="40">
-   </textarea>
-   <input type="hidden" name="recaptcha_response_field"
-       value="manual_challenge">
-</noscript>
 
 <?php include('../includes/footer_analytics.php'); ?>
 

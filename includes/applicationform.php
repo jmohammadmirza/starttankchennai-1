@@ -386,24 +386,6 @@ FORM
 I agree and consent to the terms of the <a href="/privacy" target="_blank">Privacy Policy.</a> I consent to PayPal processing and disclosing my data (including outside the EEA) and communicating with me according to that policy. I also consent to the use of website tracking methods, including cookies and similar technology.
 	</label></li></ul>
 	
-
-	<!-----recaptcha-->
-	<script type="text/javascript"
-	   src="https://www.google.com/recaptcha/api/challenge?k=6LeuTfcSAAAAAIdVrlMjAQXEfTimCzCtOsE_tvLT">
-	</script>
-
-
-	<noscript>
-	   <iframe src="https://www.google.com/recaptcha/api/noscript?k=6LeuTfcSAAAAAIdVrlMjAQXEfTimCzCtOsE_tvLT"
-	       height="300" width="500" frameborder="0"></iframe><br>
-	   <textarea name="recaptcha_challenge_field" rows="3" cols="40">
-	   </textarea>
-	   <input type="hidden" name="recaptcha_response_field"
-	       value="manual_challenge">
-	</noscript>
-	<!----- /recaptcha-->
-	
-	
 	
 	<input type="hidden" name="draftResponse" value="[,,&quot;3566563064317883291&quot;]
 	">
