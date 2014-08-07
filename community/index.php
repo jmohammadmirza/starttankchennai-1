@@ -29,13 +29,13 @@ STARTUPS
 			<article>
 					<div class="doparttime">
 									<h1>
-										DoPartTime
+										DoPartTime.com
 									</h1>
 									<div class="clr"></div>						
 									<p>
 A platform for interconnecting part-time job seekers and the part-time job providers.
 <br /><br />
-<a href="http://www.doparttime.com/" title="DoPartTime" target="_blank">DoPartTime</a>
+<a href="http://www.doparttime.com/" title="DoPartTime.com" target="_blank">DoPartTime.com</a>
 									</p>
 								</div><!-- /musurvey -->
 			</article>
@@ -57,11 +57,12 @@ A consumer insights and interaction tool that enables business to understand and
 									<h1>
 										Kobster
 									</h1>
-									<div class="clr"></div>						
-									<p>
-A company that seeks to be the one-stop shop for office supplies (electronics, stationary, cleaning and maintenance, pantry, etc) integrating vendors and corporates.
-<br /><br />
-<a href="http://kobster.com" title="Kobster" target="_blank">Kobster</a>
+									<div class="clr"></div>					
+<p>
+kobster is a technology-led office supplies company offering complete solutions to procure, manage, analyse and optimise office supplies for a corporate. Kobster.com aims to consumarize the corporate procurement process and revolutionize the way corporates shop for their office needs by leveraging the power of e-commerce.
+</p>
+<p>
+<a href="http://www.kobster.com/" title="Kobster" target="_blank">Kobster</a>
 									</p>
 								</div><!-- /kobster -->
 			</article>
@@ -74,7 +75,7 @@ A company that seeks to be the one-stop shop for office supplies (electronics, s
 						<p>
 A sports fan engagement and management company whose signature mobile application enables a shared, interactive experience during live cricket matches.
 <br /><br />
-<a href="http://fantain.com" title="Fantain" target="_blank">Fantain</a>
+<a href="http://www.fantain.com/" title="Fantain" target="_blank">Fantain</a>
 						</p>
 					</div><!-- /fantain -->
 			</article>
@@ -99,31 +100,35 @@ A sports fan engagement and management company whose signature mobile applicatio
 	-->
 	<div class="mentors">
 		<ul class="mentor_logos">
+		
+		
+	<li class="anupam"><a href="#m_detail">
+							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Anupam_Pahuja.jpg" />
+						</a></li>
+		<li class="ram"><a href="#m_detail">
+							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/ramkumar.jpg" />
+						</a></li>
 			<li class="veeran"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/veeran.jpg" />
 						</a></li>
-						<li class="Subramanian"><a href="#m_detail">
+				<li class="Subramanian"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/MVS Photo.jpg"/>
 						</a></li>
-						<li class="raghu"><a href="#m_detail">
+					<li class="raghu"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/raghu.jpg"/>
 						</a></li>
-						<li class="anupam"><a href="#m_detail">
-							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Anupam_Pahuja.jpg" />
-						</a></li>
+					
 						<li class="dorai"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Dorai Thodla.jpg" />
 						</a></li>
-						<li class="sunil"><a href="#m_detail">
+				        	<li class="sunil"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/sunil.jpg"/>
 						</a></li>
-						<li class="ram"><a href="#m_detail">
-							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/ramkumar.jpg" />
-						</a></li>
-						<li class="laks"><a href="#m_detail">
+						
+			         	        <li class="laks"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/laks.jpg" />
 						</a></li>
-			            <li class="ashish"><a href="#m_detail">
+			                          <li class="ashish"><a href="#m_detail">
 							<img src="https://where-spotlight.s3.amazonaws.com/start-tank-chennai/mentors/Ashish.jpg" />
 						</a></li>
 			
